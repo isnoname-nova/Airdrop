@@ -5,19 +5,14 @@
 
 **Ce plugin facilite les échanges de contacts entre joueurs**
 
-## ✧ Table des Matières
 
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Fonctionnalités](#fonctionnalités)
-- [Téléchargement](#téléchargement)
 
 ## ✧ Téléchargement 
 - Voici le lien de [Téléchargement](https://github.com/isnoname-nova/Airdrop/releases/download/1.0.0.3/airdrop.dll)
 
 ## ✧ Installation
 
-1. Téléchargez les fichiers `airdrop.dll` depuis [Téléchargement](#téléchargement).  
+1. Téléchargez les fichiers `airdrop.dll` depuis [Téléchargement](https://github.com/isnoname-nova/Airdrop/releases/download/1.0.0.3/airdrop.dll)  
 2. Ajoutez les fichiers dans le dossier des plugins de votre serveur Novalife.
 
 ## ✧ Utilisation
