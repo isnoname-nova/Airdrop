@@ -14,7 +14,8 @@
 
 1. Téléchargez les fichiers `airdrop.dll` depuis [Téléchargement](https://github.com/isnoname-nova/Airdrop/releases/download/1.0.0.3/airdrop.dll)  
 2. Ajoutez les fichiers dans le dossier des plugins de votre serveur Novalife.
-
+## ✧ Télémetrie 
+ -Ce plugin envoie l'informations de telemetry avec le nom du serveur au démarage du Plugins a https://amboiseplugins.store
 ## ✧ Utilisation
 - **/airdropname**: Affiche un panneau permettant de personnaliser le nom de votre téléphone. 
 - **Appuyez sur la touche 8** (Alpha8), située au-dessus des touches U et I, pour demander une personne en Airdrop.
@@ -26,7 +27,7 @@
 - Échanger de numéro de téléphone facilement 
 - Changer de nom de téléphone
 
-Ce plugin Renvoie des informations de telemetry a https://amboiseplugins.store
+
   
 
 
